@@ -1,3 +1,6 @@
 [submodule "inet"]
 	path = inet
 	url = git@github.com:CoRE-RG/inet.git
+[submodule "NIDSDatasetCreation"]
+	path = NIDSDatasetCreation
+	url = git@github.com:CoRE-RG/NIDSDatasetCreation.git
