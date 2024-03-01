@@ -4,3 +4,6 @@
 [submodule "NIDSDatasetCreation"]
 	path = NIDSDatasetCreation
 	url = git@github.com:CoRE-RG/NIDSDatasetCreation.git
+[submodule "PyNADS"]
+	path = PyNADS
+	url = git@github.com:CoRE-RG/PyNADS.git
