@@ -1,0 +1,3 @@
+[submodule "inet"]
+	path = inet
+	url = git@github.com:CoRE-RG/inet.git
